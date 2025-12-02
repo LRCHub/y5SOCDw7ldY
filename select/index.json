@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "眠れ - Nemure (ED Theme to Call of the Night Season 2)",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-02T18:09:36.714156Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "眠れ - Nemure (ED Theme to Call of the Night Season 2)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_眠れ_-_Nemure_(ED_Theme_to_Call_of_the_Night_Season_2)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "眠れ - Nemure (ED Theme to Call of the Night Season 2) (Paused)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_眠れ_-_Nemure_(ED_Theme_to_Call_of_the_Night_Season_2)_(Paused)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "醒めて、眠れ",
+      "artist": "D-LITE",
+      "has_synced": false,
+      "path": "select/03_醒めて、眠れ_D-LITE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "戦士よ 眠れ... (off vocal)",
+      "artist": "JAM Project",
+      "has_synced": false,
+      "path": "select/04_戦士よ_眠れ..._(off_vocal)_JAM_Project.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "醒めて、眠れ",
+      "artist": "대성",
+      "has_synced": false,
+      "path": "select/05_醒めて、眠れ_대성.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "醒めて、眠れ - D-LITE DLive 2014 in Japan 〜D'slove〜",
+      "artist": "DAESUNG",
+      "has_synced": false,
+      "path": "select/06_醒めて、眠れ_-_D-LITE_DLive_2014_in_Japan_〜D'slove〜_DAESUNG.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眠れ - Nemure (ED Theme to Call of the Night Season 2)",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_眠れ_-_Nemure_(ED_Theme_to_Call_of_the_Night_Season_2)_CreepyNuts.txt"
+    }
+  ]
+}
